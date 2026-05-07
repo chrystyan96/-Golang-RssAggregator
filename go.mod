@@ -1,4 +1,4 @@
-module github.com/chrystyan96/-Golang-RssAggregator
+module github.com/chrystyan96/GolangRssAggregator
 
 go 1.26.2
 
