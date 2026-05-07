@@ -1,4 +1,4 @@
-//Fonte: https://www.youtube.com/watch?v=un6ZyFkqFKo&t=40s
+// Fonte: https://www.youtube.com/watch?v=un6ZyFkqFKo&t=40s
 package main
 
 import (
